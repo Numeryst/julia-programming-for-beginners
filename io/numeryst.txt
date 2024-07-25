@@ -1,0 +1,2 @@
+Subscribe to the numeryst channel
+I share tutorials with you so you can learn julia programming language
